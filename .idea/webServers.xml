@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0010404d-ea21-4172-8a5a-e36a4a1d22a4" name="gamakovk@83.136.233.213:22 password">
+        <fileTransfer rootFolder="/home/gamakovk/python/FastAPI" accessType="SFTP" host="83.136.233.213" port="22" sshConfigId="f16d0353-87b9-4bb7-95c8-20847de7d5a9" sshConfig="gamakovk@83.136.233.213:22 password" />
+      </webServer>
+    </option>
+  </component>
+</project>
